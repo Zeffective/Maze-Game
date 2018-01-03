@@ -4,6 +4,15 @@ Jesse Wu
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ===================
+=: Description :=
+===================
+
+	This game was originally a project for a class. The goal was to make a game that
+	used 4 of the core concepts taught in class. The project was done in a week.
+	After the class, I changed the maze generator so that it was randomized
+	rather than hard coded and added images as graphics as a personal project.
+
+===================
 =: Core Concepts :=
 ===================
 
